@@ -21,6 +21,8 @@ Vagrant helps us to provision ns-3.27 environment:
 - Compile
 - Test
 
+(It will take a while...)
+
 Then you can use ns-3.27 on the virtual machine via ssh by using the following command.
 
 ```
